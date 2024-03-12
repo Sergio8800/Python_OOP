@@ -1,0 +1,1650 @@
+INFO - 2024-03-12 23:32:03,764 : .idea, , Yes, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,764 : 1_Work code, , Yes, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,764 : leson1-6, , Yes, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,764 : leson7, , Yes, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,764 : leson8 Serialization, , Yes, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,764 : OOP, , Yes, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,764 : venv, , Yes, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,764 : Урок 2. Коды примеров серилизация, , Yes, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,764 : Урок 6. Декораторы, , Yes, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,765 : log_4, log, No, C:\_python\LEETCODE
+INFO - 2024-03-12 23:32:03,765 : inspectionProfiles, , Yes, C:\_python\LEETCODE\.idea
+INFO - 2024-03-12 23:32:03,765 : , gitignore, No, C:\_python\LEETCODE\.idea
+INFO - 2024-03-12 23:32:03,765 : LEETCODE, iml, No, C:\_python\LEETCODE\.idea
+INFO - 2024-03-12 23:32:03,765 : misc, xml, No, C:\_python\LEETCODE\.idea
+INFO - 2024-03-12 23:32:03,765 : modules, xml, No, C:\_python\LEETCODE\.idea
+INFO - 2024-03-12 23:32:03,765 : workspace, xml, No, C:\_python\LEETCODE\.idea
+INFO - 2024-03-12 23:32:03,765 : profiles_settings, xml, No, C:\_python\LEETCODE\.idea\inspectionProfiles
+INFO - 2024-03-12 23:32:03,765 : Serilization, py, No, C:\_python\LEETCODE\1_Work code
+INFO - 2024-03-12 23:32:03,765 : home, , Yes, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : 3_01, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : dicrtinary_pr10, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : dictinary_pr11, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : dict_iterator_pr5hom, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : dict_practic2, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : dict__pr14, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : Fibonachi_pr6homFib, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : main, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : mass_pr12index, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : mass_practic3, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : matrix_prHome5, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : prictice8, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : SET_practic77, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,765 : stirng_pr6home, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,766 : stirng_pr9_words_couter, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,766 : string_pr5, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,766 : string_pr6 data, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,766 : string_pr6, py, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,766 : text_names, txt, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,766 : text_nums, txt, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,766 : text_result, txt, No, C:\_python\LEETCODE\leson1-6
+INFO - 2024-03-12 23:32:03,766 : Animal, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : Archive, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : bank_accunte, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : list compare, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : matrix, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : regtang, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : simble_num, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : Squer_the_quation, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : test, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : treugol, py, No, C:\_python\LEETCODE\leson1-6\home
+INFO - 2024-03-12 23:32:03,766 : sort_files, , Yes, C:\_python\LEETCODE\leson7
+INFO - 2024-03-12 23:32:03,766 : test_folder, , Yes, C:\_python\LEETCODE\leson7
+INFO - 2024-03-12 23:32:03,766 : files home, py, No, C:\_python\LEETCODE\leson7
+INFO - 2024-03-12 23:32:03,766 : pr7 creat_files, py, No, C:\_python\LEETCODE\leson7
+INFO - 2024-03-12 23:32:03,766 : pr7 lists, py, No, C:\_python\LEETCODE\leson7
+INFO - 2024-03-12 23:32:03,767 : pr7 random, py, No, C:\_python\LEETCODE\leson7
+INFO - 2024-03-12 23:32:03,767 : pr7 Sort files, py, No, C:\_python\LEETCODE\leson7
+INFO - 2024-03-12 23:32:03,767 : pr7 words, py, No, C:\_python\LEETCODE\leson7
+INFO - 2024-03-12 23:32:03,767 : text_nums, txt, No, C:\_python\LEETCODE\leson7
+INFO - 2024-03-12 23:32:03,767 : new_file_001, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_002, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_003, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_004, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_005, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_006, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_007, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_008, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_009, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_010, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_011, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_012, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_013, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_014, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,767 : new_file_015, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,768 : new_file_016, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,768 : new_file_017, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,768 : new_file_018, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,768 : new_file_019, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,768 : new_file_020, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,768 : new_file_021, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,768 : new_file_022, doc, No, C:\_python\LEETCODE\leson7\test_folder
+INFO - 2024-03-12 23:32:03,768 : my_audio, , Yes, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : task_1, , Yes, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : json_serialis, py, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : kp_data_dictwriter, csv, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : kp_data_write_1, csv, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : mes_example_write_3, json, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : pr8 json, py, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : pr8 json2, py, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : test, py, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : text_id, txt, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : text_result, json, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : text_result, txt, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : users_access, json, No, C:\_python\LEETCODE\leson8 Serialization
+INFO - 2024-03-12 23:32:03,768 : data, json, No, C:\_python\LEETCODE\leson8 Serialization\task_1
+INFO - 2024-03-12 23:32:03,768 : Json_test, py, No, C:\_python\LEETCODE\leson8 Serialization\task_1
+INFO - 2024-03-12 23:32:03,769 : kp_data_write_11, csv, No, C:\_python\LEETCODE\leson8 Serialization\task_1
+INFO - 2024-03-12 23:32:03,769 : three_in_own, py, No, C:\_python\LEETCODE\leson8 Serialization\task_1
+INFO - 2024-03-12 23:32:03,769 : top_secret, txt, No, C:\_python\LEETCODE\leson8 Serialization\task_1
+INFO - 2024-03-12 23:32:03,769 : 01, , Yes, C:\_python\LEETCODE\OOP
+INFO - 2024-03-12 23:32:03,769 : 02, , Yes, C:\_python\LEETCODE\OOP
+INFO - 2024-03-12 23:32:03,769 : 03, , Yes, C:\_python\LEETCODE\OOP
+INFO - 2024-03-12 23:32:03,769 : 04_exeption, , Yes, C:\_python\LEETCODE\OOP
+INFO - 2024-03-12 23:32:03,769 : 05_testing, , Yes, C:\_python\LEETCODE\OOP
+INFO - 2024-03-12 23:32:03,769 : 06_logging, , Yes, C:\_python\LEETCODE\OOP
+INFO - 2024-03-12 23:32:03,769 : lessons, , Yes, C:\_python\LEETCODE\OOP
+INFO - 2024-03-12 23:32:03,769 : tests, , Yes, C:\_python\LEETCODE\OOP
+INFO - 2024-03-12 23:32:03,769 : Урок 2. Коды примеров, , Yes, C:\_python\LEETCODE\OOP
+INFO - 2024-03-12 23:32:03,769 : csv_serilizat, , Yes, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 : __pycache__, , Yes, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 :  biostats, csv, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 : animal hasart, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 : animal, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 : loterey, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 : student, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 : subjects, csv, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 : task_1, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 : task_2, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,769 : task_3, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,770 : task_4, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,770 : task_5, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,770 : task_6, py, No, C:\_python\LEETCODE\OOP\01
+INFO - 2024-03-12 23:32:03,770 : biostats_tab, csv, No, C:\_python\LEETCODE\OOP\01\csv_serilizat
+INFO - 2024-03-12 23:32:03,770 : csv_exmpll, py, No, C:\_python\LEETCODE\OOP\01\csv_serilizat
+INFO - 2024-03-12 23:32:03,770 : csv_writer, py, No, C:\_python\LEETCODE\OOP\01\csv_serilizat
+INFO - 2024-03-12 23:32:03,770 : new_biostats, csv, No, C:\_python\LEETCODE\OOP\01\csv_serilizat
+INFO - 2024-03-12 23:32:03,770 : quest, csv, No, C:\_python\LEETCODE\OOP\01\csv_serilizat
+INFO - 2024-03-12 23:32:03,770 : read_csv, py, No, C:\_python\LEETCODE\OOP\01\csv_serilizat
+INFO - 2024-03-12 23:32:03,770 : subjects, csv, No, C:\_python\LEETCODE\OOP\01\csv_serilizat
+INFO - 2024-03-12 23:32:03,770 : ['animal', 'cpython-310'], pyc, No, C:\_python\LEETCODE\OOP\01\__pycache__
+INFO - 2024-03-12 23:32:03,770 : class_str, py, No, C:\_python\LEETCODE\OOP\02
+INFO - 2024-03-12 23:32:03,770 : task_1, py, No, C:\_python\LEETCODE\OOP\02
+INFO - 2024-03-12 23:32:03,770 : task_2, py, No, C:\_python\LEETCODE\OOP\02
+INFO - 2024-03-12 23:32:03,770 : task_3, py, No, C:\_python\LEETCODE\OOP\02
+INFO - 2024-03-12 23:32:03,770 : task_4, py, No, C:\_python\LEETCODE\OOP\02
+INFO - 2024-03-12 23:32:03,770 : task_5, py, No, C:\_python\LEETCODE\OOP\02
+INFO - 2024-03-12 23:32:03,770 : task_6, py, No, C:\_python\LEETCODE\OOP\02
+INFO - 2024-03-12 23:32:03,770 : factorial, json, No, C:\_python\LEETCODE\OOP\03
+INFO - 2024-03-12 23:32:03,770 : Regtangle_Validator_task_6, py, No, C:\_python\LEETCODE\OOP\03
+INFO - 2024-03-12 23:32:03,771 : task_1, py, No, C:\_python\LEETCODE\OOP\03
+INFO - 2024-03-12 23:32:03,771 : task_2, py, No, C:\_python\LEETCODE\OOP\03
+INFO - 2024-03-12 23:32:03,771 : task_3, py, No, C:\_python\LEETCODE\OOP\03
+INFO - 2024-03-12 23:32:03,771 : task_4_regtangle, py, No, C:\_python\LEETCODE\OOP\03
+INFO - 2024-03-12 23:32:03,771 : task_5_regtangle, py, No, C:\_python\LEETCODE\OOP\03
+INFO - 2024-03-12 23:32:03,771 : test, py, No, C:\_python\LEETCODE\OOP\03
+INFO - 2024-03-12 23:32:03,771 : test2, py, No, C:\_python\LEETCODE\OOP\03
+INFO - 2024-03-12 23:32:03,771 : __pycache__, , Yes, C:\_python\LEETCODE\OOP\04_exeption
+INFO - 2024-03-12 23:32:03,771 : regtangle_exept, py, No, C:\_python\LEETCODE\OOP\04_exeption
+INFO - 2024-03-12 23:32:03,771 : user, json, No, C:\_python\LEETCODE\OOP\04_exeption
+INFO - 2024-03-12 23:32:03,771 : users_class, py, No, C:\_python\LEETCODE\OOP\04_exeption
+INFO - 2024-03-12 23:32:03,771 : user_vr2, py, No, C:\_python\LEETCODE\OOP\04_exeption
+INFO - 2024-03-12 23:32:03,771 : ['users_class', 'cpython-310'], pyc, No, C:\_python\LEETCODE\OOP\04_exeption\__pycache__
+INFO - 2024-03-12 23:32:03,771 : .pytest_cache, , Yes, C:\_python\LEETCODE\OOP\05_testing
+INFO - 2024-03-12 23:32:03,771 : home, , Yes, C:\_python\LEETCODE\OOP\05_testing
+INFO - 2024-03-12 23:32:03,771 : task13_4, json, No, C:\_python\LEETCODE\OOP\05_testing
+INFO - 2024-03-12 23:32:03,771 : task_1, py, No, C:\_python\LEETCODE\OOP\05_testing
+INFO - 2024-03-12 23:32:03,772 : task_2, py, No, C:\_python\LEETCODE\OOP\05_testing
+INFO - 2024-03-12 23:32:03,772 : task_3, py, No, C:\_python\LEETCODE\OOP\05_testing
+INFO - 2024-03-12 23:32:03,772 : task_4, py, No, C:\_python\LEETCODE\OOP\05_testing
+INFO - 2024-03-12 23:32:03,772 : task_5, py, No, C:\_python\LEETCODE\OOP\05_testing
+INFO - 2024-03-12 23:32:03,772 : task_6, py, No, C:\_python\LEETCODE\OOP\05_testing
+INFO - 2024-03-12 23:32:03,772 : v, , Yes, C:\_python\LEETCODE\OOP\05_testing\.pytest_cache
+INFO - 2024-03-12 23:32:03,772 : , gitignore, No, C:\_python\LEETCODE\OOP\05_testing\.pytest_cache
+INFO - 2024-03-12 23:32:03,772 : CACHEDIR, TAG, No, C:\_python\LEETCODE\OOP\05_testing\.pytest_cache
+INFO - 2024-03-12 23:32:03,772 : README, md, No, C:\_python\LEETCODE\OOP\05_testing\.pytest_cache
+INFO - 2024-03-12 23:32:03,772 : cache, , Yes, C:\_python\LEETCODE\OOP\05_testing\.pytest_cache\v
+INFO - 2024-03-12 23:32:03,772 : [], nodeids, No, C:\_python\LEETCODE\OOP\05_testing\.pytest_cache\v\cache
+INFO - 2024-03-12 23:32:03,772 : [], stepwise, No, C:\_python\LEETCODE\OOP\05_testing\.pytest_cache\v\cache
+INFO - 2024-03-12 23:32:03,772 : .pytest_cache, , Yes, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : __pycache__, , Yes, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : circle, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : circle_pytest, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : circul_unittest, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : doc_Emploers_test, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : person, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : person_test_doc, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : regtangle, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : regtangle_exept, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : regtang_pyTest, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : regt_unit, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,772 : test_circle, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,773 : TEST_doc, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,773 : test_regtangle, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,773 : unit_emploers, py, No, C:\_python\LEETCODE\OOP\05_testing\home
+INFO - 2024-03-12 23:32:03,773 : v, , Yes, C:\_python\LEETCODE\OOP\05_testing\home\.pytest_cache
+INFO - 2024-03-12 23:32:03,773 : , gitignore, No, C:\_python\LEETCODE\OOP\05_testing\home\.pytest_cache
+INFO - 2024-03-12 23:32:03,773 : CACHEDIR, TAG, No, C:\_python\LEETCODE\OOP\05_testing\home\.pytest_cache
+INFO - 2024-03-12 23:32:03,773 : README, md, No, C:\_python\LEETCODE\OOP\05_testing\home\.pytest_cache
+INFO - 2024-03-12 23:32:03,773 : cache, , Yes, C:\_python\LEETCODE\OOP\05_testing\home\.pytest_cache\v
+INFO - 2024-03-12 23:32:03,773 : [], lastfailed, No, C:\_python\LEETCODE\OOP\05_testing\home\.pytest_cache\v\cache
+INFO - 2024-03-12 23:32:03,773 : [], nodeids, No, C:\_python\LEETCODE\OOP\05_testing\home\.pytest_cache\v\cache
+INFO - 2024-03-12 23:32:03,773 : [], stepwise, No, C:\_python\LEETCODE\OOP\05_testing\home\.pytest_cache\v\cache
+INFO - 2024-03-12 23:32:03,773 : ['regtangle', 'cpython-310'], pyc, No, C:\_python\LEETCODE\OOP\05_testing\home\__pycache__
+INFO - 2024-03-12 23:32:03,773 : logging_explication, , Yes, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,773 : __pycache__, , Yes, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,773 : Data_log, log, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,773 : date, py, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,773 : example, log, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,773 : home_06_catalog, py, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,773 : log_1, log, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,773 : log_2, log, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,773 : log_3, log, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,773 : log_4, log, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,774 : parsing_data_plus_parametrs, py, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,774 : task_1, py, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,774 : task_2, py, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,774 : task_3, py, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,774 : task_4, py, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,774 : task_5, py, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,774 : task_6, py, No, C:\_python\LEETCODE\OOP\06_logging
+INFO - 2024-03-12 23:32:03,774 : __pycache__, , Yes, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : app, log, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : ['app', 'main'], log, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : app_01, log, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : app_2, log, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : app_4, log, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : logging_basic_1, py, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : logging_formatter_2, py, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : logging_formatter_3, py, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : logging_formatter_4, py, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : logging_formatter_5, py, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : logs_formatting_6, py, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : log_config_7, py, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : use_log_config_8, py, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication
+INFO - 2024-03-12 23:32:03,774 : ['log_config_7', 'cpython-310'], pyc, No, C:\_python\LEETCODE\OOP\06_logging\logging_explication\__pycache__
+INFO - 2024-03-12 23:32:03,775 : ['date', 'cpython-310'], pyc, No, C:\_python\LEETCODE\OOP\06_logging\__pycache__
+INFO - 2024-03-12 23:32:03,775 : ['task_4', 'cpython-310'], pyc, No, C:\_python\LEETCODE\OOP\06_logging\__pycache__
+INFO - 2024-03-12 23:32:03,775 : derivative, py, No, C:\_python\LEETCODE\OOP\lessons
+INFO - 2024-03-12 23:32:03,775 : discripters, py, No, C:\_python\LEETCODE\OOP\lessons
+INFO - 2024-03-12 23:32:03,775 : StripChars, py, No, C:\_python\LEETCODE\OOP\lessons
+INFO - 2024-03-12 23:32:03,775 : Set_attribute, py, No, C:\_python\LEETCODE\OOP\tests
+INFO - 2024-03-12 23:32:03,775 : easy, , Yes, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров
+INFO - 2024-03-12 23:32:03,775 : middle, , Yes, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров
+INFO - 2024-03-12 23:32:03,775 : __pycache__, , Yes, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров
+INFO - 2024-03-12 23:32:03,775 : descrs_1, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\easy
+INFO - 2024-03-12 23:32:03,775 : descrs_2, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\easy
+INFO - 2024-03-12 23:32:03,775 : descrs_3_old_discripter, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\easy
+INFO - 2024-03-12 23:32:03,775 : descrs_4_new_discrip, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\easy
+INFO - 2024-03-12 23:32:03,775 : meta_5, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\easy
+INFO - 2024-03-12 23:32:03,775 : meta_6_class_TYPE_, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\easy
+INFO - 2024-03-12 23:32:03,775 : meta_7_Loging, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\easy
+INFO - 2024-03-12 23:32:03,775 : meta_8, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\easy
+INFO - 2024-03-12 23:32:03,775 : meta_9, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\easy
+INFO - 2024-03-12 23:32:03,775 : __pycache__, , Yes, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,775 : 00_metaclasses, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,775 : 01_descriptor_intro, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,776 : 01_meta_init, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,776 : 02_descriptors_types, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,776 : 02_meta_new, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,776 : 03_descriptors_storage, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,776 : 03_meta_call, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,776 : 04_attribute_access, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,776 : 04_meta_prepare, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,776 : descriptor, py, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle
+INFO - 2024-03-12 23:32:03,776 : ['descriptor', 'cpython-310'], pyc, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\middle\__pycache__
+INFO - 2024-03-12 23:32:03,776 : ['descriptor', 'cpython-37'], pyc, No, C:\_python\LEETCODE\OOP\Урок 2. Коды примеров\__pycache__
+INFO - 2024-03-12 23:32:03,776 : Lib, , Yes, C:\_python\LEETCODE\venv
+INFO - 2024-03-12 23:32:03,777 : Scripts, , Yes, C:\_python\LEETCODE\venv
+INFO - 2024-03-12 23:32:03,777 : , gitignore, No, C:\_python\LEETCODE\venv
+INFO - 2024-03-12 23:32:03,777 : practic, py, No, C:\_python\LEETCODE\venv
+INFO - 2024-03-12 23:32:03,777 : pyvenv, cfg, No, C:\_python\LEETCODE\venv
+INFO - 2024-03-12 23:32:03,777 : site-packages, , Yes, C:\_python\LEETCODE\venv\Lib
+INFO - 2024-03-12 23:32:03,777 : certifi, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : certifi-2024.2.2.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : charset_normalizer, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : charset_normalizer-3.3.2.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : colorama, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : colorama-0.4.6.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : exceptiongroup, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : exceptiongroup-1.2.0.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : idna, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : idna-3.6.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,777 : iniconfig, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : iniconfig-2.0.0.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : packaging, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : packaging-23.2.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : pip, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : pip-21.3.1.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : pkg_resources, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : pluggy, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : pluggy-1.4.0.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : pytest, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : pytest-8.0.2.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : PyYAML-6.0.1.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : requests, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : requests-2.31.0.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : setuptools, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,778 : setuptools-60.2.0.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : tomli, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : tomli-2.0.1.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : urllib3, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : urllib3-2.2.1.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : wheel, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : wheel-0.37.1.dist-info, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : yaml, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : _distutils_hack, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : _pytest, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : _yaml, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : distutils-precedence, pth, No, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : ['pip-21', '3', '1'], virtualenv, No, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : py, py, No, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : ['setuptools-60', '2', '0'], virtualenv, No, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : ['wheel-0', '37', '1'], virtualenv, No, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : _virtualenv, pth, No, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : _virtualenv, py, No, C:\_python\LEETCODE\venv\Lib\site-packages
+INFO - 2024-03-12 23:32:03,779 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\certifi
+INFO - 2024-03-12 23:32:03,779 : cacert, pem, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi
+INFO - 2024-03-12 23:32:03,779 : core, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi
+INFO - 2024-03-12 23:32:03,779 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi
+INFO - 2024-03-12 23:32:03,779 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi
+INFO - 2024-03-12 23:32:03,779 : __main__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi
+INFO - 2024-03-12 23:32:03,779 : ['core', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi\__pycache__
+INFO - 2024-03-12 23:32:03,779 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi\__pycache__
+INFO - 2024-03-12 23:32:03,780 : ['__main__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi\__pycache__
+INFO - 2024-03-12 23:32:03,780 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi-2024.2.2.dist-info
+INFO - 2024-03-12 23:32:03,780 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi-2024.2.2.dist-info
+INFO - 2024-03-12 23:32:03,780 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi-2024.2.2.dist-info
+INFO - 2024-03-12 23:32:03,780 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi-2024.2.2.dist-info
+INFO - 2024-03-12 23:32:03,780 : top_level, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi-2024.2.2.dist-info
+INFO - 2024-03-12 23:32:03,780 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\certifi-2024.2.2.dist-info
+INFO - 2024-03-12 23:32:03,780 : cli, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,780 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,780 : api, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,780 : cd, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,780 : constant, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,780 : legacy, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,780 : ['md', 'cp310-win_amd64'], pyd, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,780 : md, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,780 : ['md__mypyc', 'cp310-win_amd64'], pyd, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,781 : models, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,781 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,781 : utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,781 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,781 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,781 : __main__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer
+INFO - 2024-03-12 23:32:03,781 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\cli
+INFO - 2024-03-12 23:32:03,781 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\cli
+INFO - 2024-03-12 23:32:03,781 : __main__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\cli
+INFO - 2024-03-12 23:32:03,781 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\cli\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['__main__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\cli\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['api', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['cd', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['constant', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['legacy', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['md', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['models', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['utils', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['version', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,781 : ['__main__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer\__pycache__
+INFO - 2024-03-12 23:32:03,782 : entry_points, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer-3.3.2.dist-info
+INFO - 2024-03-12 23:32:03,782 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer-3.3.2.dist-info
+INFO - 2024-03-12 23:32:03,782 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer-3.3.2.dist-info
+INFO - 2024-03-12 23:32:03,782 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer-3.3.2.dist-info
+INFO - 2024-03-12 23:32:03,782 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer-3.3.2.dist-info
+INFO - 2024-03-12 23:32:03,782 : top_level, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer-3.3.2.dist-info
+INFO - 2024-03-12 23:32:03,782 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\charset_normalizer-3.3.2.dist-info
+INFO - 2024-03-12 23:32:03,782 : tests, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\colorama
+INFO - 2024-03-12 23:32:03,782 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\colorama
+INFO - 2024-03-12 23:32:03,782 : ansi, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama
+INFO - 2024-03-12 23:32:03,782 : ansitowin32, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama
+INFO - 2024-03-12 23:32:03,782 : initialise, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama
+INFO - 2024-03-12 23:32:03,782 : win32, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama
+INFO - 2024-03-12 23:32:03,782 : winterm, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama
+INFO - 2024-03-12 23:32:03,782 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama
+INFO - 2024-03-12 23:32:03,782 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests
+INFO - 2024-03-12 23:32:03,782 : ansitowin32_test, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests
+INFO - 2024-03-12 23:32:03,782 : ansi_test, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests
+INFO - 2024-03-12 23:32:03,782 : initialise_test, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests
+INFO - 2024-03-12 23:32:03,782 : isatty_test, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests
+INFO - 2024-03-12 23:32:03,782 : utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests
+INFO - 2024-03-12 23:32:03,782 : winterm_test, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests
+INFO - 2024-03-12 23:32:03,783 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests
+INFO - 2024-03-12 23:32:03,783 : ['ansitowin32_test', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['ansi_test', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['initialise_test', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['isatty_test', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['utils', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['winterm_test', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\tests\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['ansi', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['ansitowin32', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['initialise', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['win32', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['winterm', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\__pycache__
+INFO - 2024-03-12 23:32:03,783 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama\__pycache__
+INFO - 2024-03-12 23:32:03,783 : licenses, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\colorama-0.4.6.dist-info
+INFO - 2024-03-12 23:32:03,783 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama-0.4.6.dist-info
+INFO - 2024-03-12 23:32:03,783 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama-0.4.6.dist-info
+INFO - 2024-03-12 23:32:03,784 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama-0.4.6.dist-info
+INFO - 2024-03-12 23:32:03,784 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama-0.4.6.dist-info
+INFO - 2024-03-12 23:32:03,784 : LICENSE, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\colorama-0.4.6.dist-info\licenses
+INFO - 2024-03-12 23:32:03,784 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup
+INFO - 2024-03-12 23:32:03,784 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup
+INFO - 2024-03-12 23:32:03,784 : _catch, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup
+INFO - 2024-03-12 23:32:03,784 : _exceptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup
+INFO - 2024-03-12 23:32:03,784 : _formatting, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup
+INFO - 2024-03-12 23:32:03,784 : _suppress, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup
+INFO - 2024-03-12 23:32:03,784 : _version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup
+INFO - 2024-03-12 23:32:03,784 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup
+INFO - 2024-03-12 23:32:03,784 : ['_catch', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup\__pycache__
+INFO - 2024-03-12 23:32:03,784 : ['_exceptions', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup\__pycache__
+INFO - 2024-03-12 23:32:03,784 : ['_formatting', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup\__pycache__
+INFO - 2024-03-12 23:32:03,784 : ['_suppress', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup\__pycache__
+INFO - 2024-03-12 23:32:03,784 : ['_version', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup\__pycache__
+INFO - 2024-03-12 23:32:03,784 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup\__pycache__
+INFO - 2024-03-12 23:32:03,784 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup-1.2.0.dist-info
+INFO - 2024-03-12 23:32:03,784 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup-1.2.0.dist-info
+INFO - 2024-03-12 23:32:03,785 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup-1.2.0.dist-info
+INFO - 2024-03-12 23:32:03,785 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup-1.2.0.dist-info
+INFO - 2024-03-12 23:32:03,785 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\exceptiongroup-1.2.0.dist-info
+INFO - 2024-03-12 23:32:03,785 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : codec, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : core, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : idnadata, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : intranges, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : package_data, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : uts46data, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna
+INFO - 2024-03-12 23:32:03,785 : ['codec', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna\__pycache__
+INFO - 2024-03-12 23:32:03,785 : ['compat', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna\__pycache__
+INFO - 2024-03-12 23:32:03,785 : ['core', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna\__pycache__
+INFO - 2024-03-12 23:32:03,785 : ['idnadata', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna\__pycache__
+INFO - 2024-03-12 23:32:03,785 : ['intranges', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna\__pycache__
+INFO - 2024-03-12 23:32:03,785 : ['package_data', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna\__pycache__
+INFO - 2024-03-12 23:32:03,785 : ['uts46data', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna\__pycache__
+INFO - 2024-03-12 23:32:03,785 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna\__pycache__
+INFO - 2024-03-12 23:32:03,785 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna-3.6.dist-info
+INFO - 2024-03-12 23:32:03,786 : LICENSE, md, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna-3.6.dist-info
+INFO - 2024-03-12 23:32:03,786 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna-3.6.dist-info
+INFO - 2024-03-12 23:32:03,786 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna-3.6.dist-info
+INFO - 2024-03-12 23:32:03,786 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\idna-3.6.dist-info
+INFO - 2024-03-12 23:32:03,786 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig
+INFO - 2024-03-12 23:32:03,786 : exceptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig
+INFO - 2024-03-12 23:32:03,786 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig
+INFO - 2024-03-12 23:32:03,786 : _parse, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig
+INFO - 2024-03-12 23:32:03,786 : _version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig
+INFO - 2024-03-12 23:32:03,786 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig
+INFO - 2024-03-12 23:32:03,786 : ['exceptions', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig\__pycache__
+INFO - 2024-03-12 23:32:03,786 : ['_parse', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig\__pycache__
+INFO - 2024-03-12 23:32:03,786 : ['_version', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig\__pycache__
+INFO - 2024-03-12 23:32:03,786 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig\__pycache__
+INFO - 2024-03-12 23:32:03,786 : licenses, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig-2.0.0.dist-info
+INFO - 2024-03-12 23:32:03,786 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig-2.0.0.dist-info
+INFO - 2024-03-12 23:32:03,786 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig-2.0.0.dist-info
+INFO - 2024-03-12 23:32:03,786 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig-2.0.0.dist-info
+INFO - 2024-03-12 23:32:03,786 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig-2.0.0.dist-info
+INFO - 2024-03-12 23:32:03,786 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\iniconfig-2.0.0.dist-info\licenses
+INFO - 2024-03-12 23:32:03,786 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : markers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : metadata, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : requirements, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : specifiers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : tags, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : _elffile, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : _manylinux, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : _musllinux, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : _parser, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : _structures, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : _tokenizer, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging
+INFO - 2024-03-12 23:32:03,787 : ['markers', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,787 : ['metadata', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,787 : ['requirements', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,787 : ['specifiers', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,787 : ['tags', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,787 : ['utils', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,787 : ['version', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,788 : ['_elffile', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,788 : ['_manylinux', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,788 : ['_musllinux', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,788 : ['_parser', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,788 : ['_structures', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,788 : ['_tokenizer', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,788 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,788 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging-23.2.dist-info
+INFO - 2024-03-12 23:32:03,788 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging-23.2.dist-info
+INFO - 2024-03-12 23:32:03,788 : LICENSE, APACHE, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging-23.2.dist-info
+INFO - 2024-03-12 23:32:03,788 : LICENSE, BSD, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging-23.2.dist-info
+INFO - 2024-03-12 23:32:03,788 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging-23.2.dist-info
+INFO - 2024-03-12 23:32:03,788 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging-23.2.dist-info
+INFO - 2024-03-12 23:32:03,788 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\packaging-23.2.dist-info
+INFO - 2024-03-12 23:32:03,788 : _internal, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip
+INFO - 2024-03-12 23:32:03,788 : _vendor, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip
+INFO - 2024-03-12 23:32:03,788 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip
+INFO - 2024-03-12 23:32:03,788 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip
+INFO - 2024-03-12 23:32:03,788 : __main__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip
+INFO - 2024-03-12 23:32:03,788 : cli, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,788 : commands, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : distributions, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : index, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : locations, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : metadata, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : models, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : network, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : operations, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : req, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : resolution, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : utils, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : vcs, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : build_env, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : cache, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : configuration, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : exceptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : main, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : pyproject, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : self_outdated_check, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : wheel_builder, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal
+INFO - 2024-03-12 23:32:03,789 : autocompletion, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,789 : base_command, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,789 : cmdoptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,789 : command_context, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,790 : main, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,790 : main_parser, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,790 : parser, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,790 : progress_bars, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,790 : req_command, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,790 : spinners, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,790 : status_codes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,790 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\cli
+INFO - 2024-03-12 23:32:03,790 : cache, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,790 : check, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,790 : completion, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,790 : configuration, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,790 : debug, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,790 : download, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,790 : freeze, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,790 : hash, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : help, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : index, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : install, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : list, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : search, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : show, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : uninstall, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\commands
+INFO - 2024-03-12 23:32:03,791 : base, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\distributions
+INFO - 2024-03-12 23:32:03,791 : installed, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\distributions
+INFO - 2024-03-12 23:32:03,791 : sdist, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\distributions
+INFO - 2024-03-12 23:32:03,791 : wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\distributions
+INFO - 2024-03-12 23:32:03,791 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\distributions
+INFO - 2024-03-12 23:32:03,791 : collector, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\index
+INFO - 2024-03-12 23:32:03,792 : package_finder, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\index
+INFO - 2024-03-12 23:32:03,792 : sources, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\index
+INFO - 2024-03-12 23:32:03,792 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\index
+INFO - 2024-03-12 23:32:03,792 : base, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\locations
+INFO - 2024-03-12 23:32:03,792 : _distutils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\locations
+INFO - 2024-03-12 23:32:03,792 : _sysconfig, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\locations
+INFO - 2024-03-12 23:32:03,792 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\locations
+INFO - 2024-03-12 23:32:03,792 : base, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\metadata
+INFO - 2024-03-12 23:32:03,792 : pkg_resources, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\metadata
+INFO - 2024-03-12 23:32:03,792 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\metadata
+INFO - 2024-03-12 23:32:03,792 : candidate, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,792 : direct_url, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,792 : format_control, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,792 : index, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,792 : link, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,793 : scheme, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,793 : search_scope, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,793 : selection_prefs, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,793 : target_python, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,793 : wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,793 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\models
+INFO - 2024-03-12 23:32:03,793 : auth, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\network
+INFO - 2024-03-12 23:32:03,793 : cache, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\network
+INFO - 2024-03-12 23:32:03,793 : download, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\network
+INFO - 2024-03-12 23:32:03,793 : lazy_wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\network
+INFO - 2024-03-12 23:32:03,793 : session, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\network
+INFO - 2024-03-12 23:32:03,793 : utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\network
+INFO - 2024-03-12 23:32:03,793 : xmlrpc, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\network
+INFO - 2024-03-12 23:32:03,793 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\network
+INFO - 2024-03-12 23:32:03,793 : build, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations
+INFO - 2024-03-12 23:32:03,793 : install, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations
+INFO - 2024-03-12 23:32:03,793 : check, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations
+INFO - 2024-03-12 23:32:03,793 : freeze, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations
+INFO - 2024-03-12 23:32:03,793 : prepare, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations
+INFO - 2024-03-12 23:32:03,793 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations
+INFO - 2024-03-12 23:32:03,793 : metadata, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\build
+INFO - 2024-03-12 23:32:03,793 : metadata_editable, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\build
+INFO - 2024-03-12 23:32:03,794 : metadata_legacy, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\build
+INFO - 2024-03-12 23:32:03,794 : wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\build
+INFO - 2024-03-12 23:32:03,794 : wheel_editable, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\build
+INFO - 2024-03-12 23:32:03,794 : wheel_legacy, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\build
+INFO - 2024-03-12 23:32:03,794 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\build
+INFO - 2024-03-12 23:32:03,794 : editable_legacy, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\install
+INFO - 2024-03-12 23:32:03,794 : legacy, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\install
+INFO - 2024-03-12 23:32:03,794 : wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\install
+INFO - 2024-03-12 23:32:03,794 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\operations\install
+INFO - 2024-03-12 23:32:03,795 : constructors, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\req
+INFO - 2024-03-12 23:32:03,795 : req_file, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\req
+INFO - 2024-03-12 23:32:03,795 : req_install, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\req
+INFO - 2024-03-12 23:32:03,795 : req_set, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\req
+INFO - 2024-03-12 23:32:03,795 : req_tracker, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\req
+INFO - 2024-03-12 23:32:03,795 : req_uninstall, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\req
+INFO - 2024-03-12 23:32:03,795 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\req
+INFO - 2024-03-12 23:32:03,795 : legacy, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution
+INFO - 2024-03-12 23:32:03,795 : resolvelib, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution
+INFO - 2024-03-12 23:32:03,795 : base, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution
+INFO - 2024-03-12 23:32:03,795 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution
+INFO - 2024-03-12 23:32:03,795 : resolver, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\legacy
+INFO - 2024-03-12 23:32:03,795 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\legacy
+INFO - 2024-03-12 23:32:03,795 : base, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+INFO - 2024-03-12 23:32:03,795 : candidates, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+INFO - 2024-03-12 23:32:03,795 : factory, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+INFO - 2024-03-12 23:32:03,795 : found_candidates, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+INFO - 2024-03-12 23:32:03,795 : provider, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+INFO - 2024-03-12 23:32:03,795 : reporter, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+INFO - 2024-03-12 23:32:03,795 : requirements, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+INFO - 2024-03-12 23:32:03,795 : resolver, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+INFO - 2024-03-12 23:32:03,796 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+INFO - 2024-03-12 23:32:03,796 : appdirs, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : compatibility_tags, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : datetime, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : deprecation, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : direct_url_helpers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : distutils_args, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : egg_link, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : encoding, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : entrypoints, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : filesystem, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : filetypes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : glibc, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : hashes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : inject_securetransport, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : logging, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : misc, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : models, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : packaging, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : parallel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,796 : pkg_resources, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : setuptools_build, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : subprocess, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : temp_dir, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : unpacking, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : urls, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : virtualenv, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : _log, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\utils
+INFO - 2024-03-12 23:32:03,797 : bazaar, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\vcs
+INFO - 2024-03-12 23:32:03,797 : git, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\vcs
+INFO - 2024-03-12 23:32:03,797 : mercurial, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\vcs
+INFO - 2024-03-12 23:32:03,797 : subversion, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\vcs
+INFO - 2024-03-12 23:32:03,797 : versioncontrol, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\vcs
+INFO - 2024-03-12 23:32:03,797 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_internal\vcs
+INFO - 2024-03-12 23:32:03,797 : cachecontrol, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,797 : certifi, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,797 : chardet, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,797 : colorama, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,797 : distlib, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,797 : html5lib, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,797 : idna, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : msgpack, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : packaging, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : pep517, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : pkg_resources, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : platformdirs, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : progress, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : requests, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : resolvelib, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : tenacity, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : tomli, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : urllib3, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : webencodings, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : distro, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : pyparsing, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,798 : six, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,799 : vendor, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,799 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor
+INFO - 2024-03-12 23:32:03,799 : caches, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : adapter, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : cache, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : controller, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : filewrapper, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : heuristics, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : serialize, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : wrapper, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : _cmd, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol
+INFO - 2024-03-12 23:32:03,799 : file_cache, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+INFO - 2024-03-12 23:32:03,799 : redis_cache, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+INFO - 2024-03-12 23:32:03,799 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+INFO - 2024-03-12 23:32:03,800 : cacert, pem, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\certifi
+INFO - 2024-03-12 23:32:03,800 : core, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\certifi
+INFO - 2024-03-12 23:32:03,800 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\certifi
+INFO - 2024-03-12 23:32:03,800 : __main__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\certifi
+INFO - 2024-03-12 23:32:03,800 : cli, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,800 : metadata, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,800 : big5freq, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,800 : big5prober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,800 : chardistribution, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,800 : charsetgroupprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : charsetprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : codingstatemachine, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : cp949prober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : enums, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : escprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : escsm, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : eucjpprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : euckrfreq, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : euckrprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : euctwfreq, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : euctwprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : gb2312freq, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : gb2312prober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,801 : hebrewprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : jisfreq, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : jpcntx, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : langbulgarianmodel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : langgreekmodel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : langhebrewmodel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : langhungarianmodel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : langrussianmodel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : langthaimodel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : langturkishmodel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : latin1prober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : mbcharsetprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : mbcsgroupprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : mbcssm, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : sbcharsetprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : sbcsgroupprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : sjisprober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : universaldetector, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : utf8prober, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,802 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet
+INFO - 2024-03-12 23:32:03,803 : chardetect, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet\cli
+INFO - 2024-03-12 23:32:03,803 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet\cli
+INFO - 2024-03-12 23:32:03,803 : languages, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet\metadata
+INFO - 2024-03-12 23:32:03,803 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\chardet\metadata
+INFO - 2024-03-12 23:32:03,803 : ansi, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\colorama
+INFO - 2024-03-12 23:32:03,803 : ansitowin32, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\colorama
+INFO - 2024-03-12 23:32:03,803 : initialise, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\colorama
+INFO - 2024-03-12 23:32:03,803 : win32, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\colorama
+INFO - 2024-03-12 23:32:03,803 : winterm, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\colorama
+INFO - 2024-03-12 23:32:03,803 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\colorama
+INFO - 2024-03-12 23:32:03,803 : _backport, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : database, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : index, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : locators, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : manifest, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : markers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : metadata, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : resources, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : scripts, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : t32, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,803 : t64-arm, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,804 : t64, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,804 : util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,804 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,804 : w32, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,804 : w64-arm, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,804 : w64, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,804 : wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,804 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib
+INFO - 2024-03-12 23:32:03,804 : misc, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib\_backport
+INFO - 2024-03-12 23:32:03,804 : shutil, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib\_backport
+INFO - 2024-03-12 23:32:03,804 : sysconfig, cfg, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib\_backport
+INFO - 2024-03-12 23:32:03,804 : sysconfig, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib\_backport
+INFO - 2024-03-12 23:32:03,804 : tarfile, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib\_backport
+INFO - 2024-03-12 23:32:03,804 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\distlib\_backport
+INFO - 2024-03-12 23:32:03,804 : filters, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,804 : treeadapters, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,804 : treebuilders, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,804 : treewalkers, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,804 : _trie, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,804 : constants, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,804 : html5parser, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,804 : serializer, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,805 : _ihatexml, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,805 : _inputstream, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,805 : _tokenizer, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,805 : _utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,805 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib
+INFO - 2024-03-12 23:32:03,805 : alphabeticalattributes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\filters
+INFO - 2024-03-12 23:32:03,805 : base, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\filters
+INFO - 2024-03-12 23:32:03,805 : inject_meta_charset, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\filters
+INFO - 2024-03-12 23:32:03,805 : lint, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\filters
+INFO - 2024-03-12 23:32:03,805 : optionaltags, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\filters
+INFO - 2024-03-12 23:32:03,805 : sanitizer, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\filters
+INFO - 2024-03-12 23:32:03,805 : whitespace, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\filters
+INFO - 2024-03-12 23:32:03,805 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\filters
+INFO - 2024-03-12 23:32:03,805 : genshi, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treeadapters
+INFO - 2024-03-12 23:32:03,805 : sax, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treeadapters
+INFO - 2024-03-12 23:32:03,805 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treeadapters
+INFO - 2024-03-12 23:32:03,805 : base, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders
+INFO - 2024-03-12 23:32:03,806 : dom, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders
+INFO - 2024-03-12 23:32:03,806 : etree, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders
+INFO - 2024-03-12 23:32:03,806 : etree_lxml, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders
+INFO - 2024-03-12 23:32:03,806 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders
+INFO - 2024-03-12 23:32:03,806 : base, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers
+INFO - 2024-03-12 23:32:03,806 : dom, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers
+INFO - 2024-03-12 23:32:03,806 : etree, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers
+INFO - 2024-03-12 23:32:03,806 : etree_lxml, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers
+INFO - 2024-03-12 23:32:03,806 : genshi, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers
+INFO - 2024-03-12 23:32:03,806 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers
+INFO - 2024-03-12 23:32:03,807 : py, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\_trie
+INFO - 2024-03-12 23:32:03,807 : _base, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\_trie
+INFO - 2024-03-12 23:32:03,807 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\html5lib\_trie
+INFO - 2024-03-12 23:32:03,807 : codec, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\idna
+INFO - 2024-03-12 23:32:03,807 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\idna
+INFO - 2024-03-12 23:32:03,807 : core, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\idna
+INFO - 2024-03-12 23:32:03,807 : idnadata, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\idna
+INFO - 2024-03-12 23:32:03,807 : intranges, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\idna
+INFO - 2024-03-12 23:32:03,807 : package_data, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\idna
+INFO - 2024-03-12 23:32:03,807 : uts46data, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\idna
+INFO - 2024-03-12 23:32:03,807 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\idna
+INFO - 2024-03-12 23:32:03,807 : exceptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\msgpack
+INFO - 2024-03-12 23:32:03,807 : ext, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\msgpack
+INFO - 2024-03-12 23:32:03,807 : fallback, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\msgpack
+INFO - 2024-03-12 23:32:03,807 : _version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\msgpack
+INFO - 2024-03-12 23:32:03,807 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\msgpack
+INFO - 2024-03-12 23:32:03,807 : markers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,807 : requirements, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,807 : specifiers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,807 : tags, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,808 : utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,808 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,808 : _manylinux, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,808 : _musllinux, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,808 : _structures, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,808 : __about__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,808 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\packaging
+INFO - 2024-03-12 23:32:03,808 : in_process, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : build, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : check, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : colorlog, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : dirtools, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : envbuild, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : meta, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : wrappers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517
+INFO - 2024-03-12 23:32:03,808 : _in_process, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517\in_process
+INFO - 2024-03-12 23:32:03,808 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pep517\in_process
+INFO - 2024-03-12 23:32:03,808 : py31compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pkg_resources
+INFO - 2024-03-12 23:32:03,808 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\pkg_resources
+INFO - 2024-03-12 23:32:03,808 : android, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\platformdirs
+INFO - 2024-03-12 23:32:03,809 : api, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\platformdirs
+INFO - 2024-03-12 23:32:03,809 : macos, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\platformdirs
+INFO - 2024-03-12 23:32:03,809 : unix, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\platformdirs
+INFO - 2024-03-12 23:32:03,809 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\platformdirs
+INFO - 2024-03-12 23:32:03,809 : windows, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\platformdirs
+INFO - 2024-03-12 23:32:03,809 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\platformdirs
+INFO - 2024-03-12 23:32:03,809 : __main__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\platformdirs
+INFO - 2024-03-12 23:32:03,809 : bar, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\progress
+INFO - 2024-03-12 23:32:03,809 : colors, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\progress
+INFO - 2024-03-12 23:32:03,809 : counter, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\progress
+INFO - 2024-03-12 23:32:03,809 : spinner, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\progress
+INFO - 2024-03-12 23:32:03,809 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\progress
+INFO - 2024-03-12 23:32:03,809 : adapters, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,809 : api, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,809 : auth, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,809 : certs, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : cookies, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : exceptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : help, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : hooks, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : models, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : packages, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : sessions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : status_codes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : structures, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,810 : utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,811 : _internal_utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,811 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,811 : __version__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\requests
+INFO - 2024-03-12 23:32:03,811 : compat, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\resolvelib
+INFO - 2024-03-12 23:32:03,811 : providers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\resolvelib
+INFO - 2024-03-12 23:32:03,811 : reporters, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\resolvelib
+INFO - 2024-03-12 23:32:03,811 : resolvers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\resolvelib
+INFO - 2024-03-12 23:32:03,811 : structs, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\resolvelib
+INFO - 2024-03-12 23:32:03,811 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\resolvelib
+INFO - 2024-03-12 23:32:03,811 : collections_abc, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\resolvelib\compat
+INFO - 2024-03-12 23:32:03,811 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\resolvelib\compat
+INFO - 2024-03-12 23:32:03,811 : after, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,811 : before, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : before_sleep, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : nap, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : retry, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : stop, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : tornadoweb, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : wait, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : _asyncio, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : _utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tenacity
+INFO - 2024-03-12 23:32:03,812 : _parser, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tomli
+INFO - 2024-03-12 23:32:03,812 : _re, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tomli
+INFO - 2024-03-12 23:32:03,812 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\tomli
+INFO - 2024-03-12 23:32:03,812 : contrib, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,812 : packages, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,812 : util, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,812 : connection, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,812 : connectionpool, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,812 : exceptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,812 : fields, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,813 : filepost, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,813 : poolmanager, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,813 : request, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,813 : response, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,813 : _collections, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,813 : _version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,813 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3
+INFO - 2024-03-12 23:32:03,813 : _securetransport, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+INFO - 2024-03-12 23:32:03,813 : appengine, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+INFO - 2024-03-12 23:32:03,813 : ntlmpool, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+INFO - 2024-03-12 23:32:03,813 : pyopenssl, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+INFO - 2024-03-12 23:32:03,813 : securetransport, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+INFO - 2024-03-12 23:32:03,813 : socks, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+INFO - 2024-03-12 23:32:03,813 : _appengine_environ, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+INFO - 2024-03-12 23:32:03,813 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+INFO - 2024-03-12 23:32:03,813 : bindings, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport
+INFO - 2024-03-12 23:32:03,813 : low_level, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport
+INFO - 2024-03-12 23:32:03,814 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport
+INFO - 2024-03-12 23:32:03,814 : backports, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\packages
+INFO - 2024-03-12 23:32:03,814 : ssl_match_hostname, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\packages
+INFO - 2024-03-12 23:32:03,814 : six, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\packages
+INFO - 2024-03-12 23:32:03,814 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\packages
+INFO - 2024-03-12 23:32:03,814 : makefile, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports
+INFO - 2024-03-12 23:32:03,814 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports
+INFO - 2024-03-12 23:32:03,814 : _implementation, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname
+INFO - 2024-03-12 23:32:03,814 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\packages\ssl_match_hostname
+INFO - 2024-03-12 23:32:03,814 : connection, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : proxy, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : queue, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : request, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : response, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : retry, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : ssltransport, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : ssl_, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : timeout, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : url, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : wait, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\urllib3\util
+INFO - 2024-03-12 23:32:03,814 : labels, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\webencodings
+INFO - 2024-03-12 23:32:03,815 : mklabels, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\webencodings
+INFO - 2024-03-12 23:32:03,815 : tests, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\webencodings
+INFO - 2024-03-12 23:32:03,815 : x_user_defined, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\webencodings
+INFO - 2024-03-12 23:32:03,815 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip\_vendor\webencodings
+INFO - 2024-03-12 23:32:03,815 : entry_points, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip-21.3.1.dist-info
+INFO - 2024-03-12 23:32:03,815 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip-21.3.1.dist-info
+INFO - 2024-03-12 23:32:03,815 : LICENSE, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip-21.3.1.dist-info
+INFO - 2024-03-12 23:32:03,815 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip-21.3.1.dist-info
+INFO - 2024-03-12 23:32:03,815 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip-21.3.1.dist-info
+INFO - 2024-03-12 23:32:03,815 : top_level, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip-21.3.1.dist-info
+INFO - 2024-03-12 23:32:03,815 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\pip-21.3.1.dist-info
+INFO - 2024-03-12 23:32:03,815 : extern, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources
+INFO - 2024-03-12 23:32:03,815 : tests, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources
+INFO - 2024-03-12 23:32:03,815 : _vendor, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources
+INFO - 2024-03-12 23:32:03,815 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources
+INFO - 2024-03-12 23:32:03,815 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources
+INFO - 2024-03-12 23:32:03,815 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\extern
+INFO - 2024-03-12 23:32:03,815 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\extern
+INFO - 2024-03-12 23:32:03,816 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\extern\__pycache__
+INFO - 2024-03-12 23:32:03,816 : data, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\tests
+INFO - 2024-03-12 23:32:03,816 : my-test-package-source, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\tests\data
+INFO - 2024-03-12 23:32:03,816 : setup, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\tests\data\my-test-package-source
+INFO - 2024-03-12 23:32:03,816 : packaging, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor
+INFO - 2024-03-12 23:32:03,816 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor
+INFO - 2024-03-12 23:32:03,816 : appdirs, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor
+INFO - 2024-03-12 23:32:03,816 : pyparsing, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor
+INFO - 2024-03-12 23:32:03,816 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor
+INFO - 2024-03-12 23:32:03,816 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : markers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : requirements, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : specifiers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : tags, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : _manylinux, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : _musllinux, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : _structures, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : __about__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+INFO - 2024-03-12 23:32:03,816 : ['markers', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['requirements', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['specifiers', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['tags', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['utils', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['version', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['_manylinux', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['_musllinux', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['_structures', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['__about__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['appdirs', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['pyparsing', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\_vendor\__pycache__
+INFO - 2024-03-12 23:32:03,817 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pkg_resources\__pycache__
+INFO - 2024-03-12 23:32:03,818 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : _callers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : _hooks, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : _manager, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : _result, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : _tracing, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : _version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : _warnings, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy
+INFO - 2024-03-12 23:32:03,818 : ['_callers', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy\__pycache__
+INFO - 2024-03-12 23:32:03,818 : ['_hooks', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy\__pycache__
+INFO - 2024-03-12 23:32:03,818 : ['_manager', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy\__pycache__
+INFO - 2024-03-12 23:32:03,818 : ['_result', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy\__pycache__
+INFO - 2024-03-12 23:32:03,818 : ['_tracing', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy\__pycache__
+INFO - 2024-03-12 23:32:03,818 : ['_version', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy\__pycache__
+INFO - 2024-03-12 23:32:03,818 : ['_warnings', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy\__pycache__
+INFO - 2024-03-12 23:32:03,818 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy\__pycache__
+INFO - 2024-03-12 23:32:03,819 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy-1.4.0.dist-info
+INFO - 2024-03-12 23:32:03,819 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy-1.4.0.dist-info
+INFO - 2024-03-12 23:32:03,819 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy-1.4.0.dist-info
+INFO - 2024-03-12 23:32:03,819 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy-1.4.0.dist-info
+INFO - 2024-03-12 23:32:03,819 : top_level, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy-1.4.0.dist-info
+INFO - 2024-03-12 23:32:03,819 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\pluggy-1.4.0.dist-info
+INFO - 2024-03-12 23:32:03,819 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\pytest
+INFO - 2024-03-12 23:32:03,819 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest
+INFO - 2024-03-12 23:32:03,819 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest
+INFO - 2024-03-12 23:32:03,819 : __main__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest
+INFO - 2024-03-12 23:32:03,819 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest\__pycache__
+INFO - 2024-03-12 23:32:03,819 : ['__main__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest\__pycache__
+INFO - 2024-03-12 23:32:03,819 : entry_points, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest-8.0.2.dist-info
+INFO - 2024-03-12 23:32:03,819 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest-8.0.2.dist-info
+INFO - 2024-03-12 23:32:03,819 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest-8.0.2.dist-info
+INFO - 2024-03-12 23:32:03,819 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest-8.0.2.dist-info
+INFO - 2024-03-12 23:32:03,820 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest-8.0.2.dist-info
+INFO - 2024-03-12 23:32:03,820 : [], REQUESTED, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest-8.0.2.dist-info
+INFO - 2024-03-12 23:32:03,820 : top_level, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest-8.0.2.dist-info
+INFO - 2024-03-12 23:32:03,820 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\pytest-8.0.2.dist-info
+INFO - 2024-03-12 23:32:03,820 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\PyYAML-6.0.1.dist-info
+INFO - 2024-03-12 23:32:03,820 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\PyYAML-6.0.1.dist-info
+INFO - 2024-03-12 23:32:03,820 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\PyYAML-6.0.1.dist-info
+INFO - 2024-03-12 23:32:03,820 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\PyYAML-6.0.1.dist-info
+INFO - 2024-03-12 23:32:03,820 : [], REQUESTED, No, C:\_python\LEETCODE\venv\Lib\site-packages\PyYAML-6.0.1.dist-info
+INFO - 2024-03-12 23:32:03,820 : top_level, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\PyYAML-6.0.1.dist-info
+INFO - 2024-03-12 23:32:03,820 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\PyYAML-6.0.1.dist-info
+INFO - 2024-03-12 23:32:03,820 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,820 : adapters, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,820 : api, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,820 : auth, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : certs, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : cookies, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : exceptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : help, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : hooks, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : models, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : packages, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : sessions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : status_codes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : structures, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : _internal_utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : __version__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests
+INFO - 2024-03-12 23:32:03,821 : ['adapters', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,821 : ['api', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,821 : ['auth', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,821 : ['certs', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['compat', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['cookies', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['exceptions', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['help', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['hooks', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['models', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['packages', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['sessions', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['status_codes', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['structures', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['utils', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['_internal_utils', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,822 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,823 : ['__version__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests\__pycache__
+INFO - 2024-03-12 23:32:03,823 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests-2.31.0.dist-info
+INFO - 2024-03-12 23:32:03,823 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests-2.31.0.dist-info
+INFO - 2024-03-12 23:32:03,823 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests-2.31.0.dist-info
+INFO - 2024-03-12 23:32:03,823 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests-2.31.0.dist-info
+INFO - 2024-03-12 23:32:03,823 : [], REQUESTED, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests-2.31.0.dist-info
+INFO - 2024-03-12 23:32:03,823 : top_level, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests-2.31.0.dist-info
+INFO - 2024-03-12 23:32:03,823 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\requests-2.31.0.dist-info
+INFO - 2024-03-12 23:32:03,823 : command, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : extern, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : _distutils, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : _vendor, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : archive_util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : build_meta, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : cli-32, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : cli-64, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : cli-arm64, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : cli, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : config, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : depends, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,823 : dep_util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : dist, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : errors, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : extension, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : glob, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : gui-32, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : gui-64, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : gui-arm64, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : gui, exe, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : installer, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : launch, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : logging, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : monkey, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : msvc, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : namespaces, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : package_index, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : py34compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : sandbox, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : script (dev), tmpl, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : script, tmpl, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : unicode_utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,824 : windows_support, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,825 : _deprecation_warning, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,825 : _imp, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,825 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools
+INFO - 2024-03-12 23:32:03,825 : alias, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : bdist_egg, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : bdist_rpm, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : build_clib, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : build_ext, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : build_py, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : develop, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : dist_info, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : easy_install, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : egg_info, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : install, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : install_egg_info, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : install_lib, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : install_scripts, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : launcher manifest, xml, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,825 : py36compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : register, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : rotate, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : saveopts, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : sdist, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : setopt, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : test, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : upload, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : upload_docs, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\command
+INFO - 2024-03-12 23:32:03,826 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\extern
+INFO - 2024-03-12 23:32:03,826 : command, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : archive_util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : bcppcompiler, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : ccompiler, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : cmd, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : config, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : core, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : cygwinccompiler, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : debug, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : dep_util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,826 : dir_util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : dist, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : errors, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : extension, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : fancy_getopt, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : filelist, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : file_util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : log, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : msvc9compiler, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : msvccompiler, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : py35compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : py38compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : spawn, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : sysconfig, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : text_file, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : unixccompiler, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,827 : versionpredicate, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,828 : _msvccompiler, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,828 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils
+INFO - 2024-03-12 23:32:03,828 : bdist, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : bdist_dumb, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : bdist_msi, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : bdist_rpm, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : bdist_wininst, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : build, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : build_clib, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : build_ext, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : build_py, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : build_scripts, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : check, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : clean, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : config, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : install, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : install_data, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : install_egg_info, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,828 : install_headers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,829 : install_lib, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,829 : install_scripts, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,829 : py37compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,829 : register, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,829 : sdist, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,829 : upload, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,829 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_distutils\command
+INFO - 2024-03-12 23:32:03,829 : more_itertools, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor
+INFO - 2024-03-12 23:32:03,829 : packaging, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor
+INFO - 2024-03-12 23:32:03,829 : ordered_set, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor
+INFO - 2024-03-12 23:32:03,829 : pyparsing, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor
+INFO - 2024-03-12 23:32:03,830 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor
+INFO - 2024-03-12 23:32:03,830 : more, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\more_itertools
+INFO - 2024-03-12 23:32:03,830 : recipes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\more_itertools
+INFO - 2024-03-12 23:32:03,830 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\more_itertools
+INFO - 2024-03-12 23:32:03,830 : markers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,830 : requirements, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : specifiers, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : tags, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : utils, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : _manylinux, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : _musllinux, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : _structures, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : __about__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools\_vendor\packaging
+INFO - 2024-03-12 23:32:03,831 : entry_points, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools-60.2.0.dist-info
+INFO - 2024-03-12 23:32:03,831 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools-60.2.0.dist-info
+INFO - 2024-03-12 23:32:03,831 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools-60.2.0.dist-info
+INFO - 2024-03-12 23:32:03,831 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools-60.2.0.dist-info
+INFO - 2024-03-12 23:32:03,832 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools-60.2.0.dist-info
+INFO - 2024-03-12 23:32:03,832 : top_level, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools-60.2.0.dist-info
+INFO - 2024-03-12 23:32:03,832 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\setuptools-60.2.0.dist-info
+INFO - 2024-03-12 23:32:03,832 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\tomli
+INFO - 2024-03-12 23:32:03,832 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli
+INFO - 2024-03-12 23:32:03,832 : _parser, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli
+INFO - 2024-03-12 23:32:03,832 : _re, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli
+INFO - 2024-03-12 23:32:03,832 : _types, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli
+INFO - 2024-03-12 23:32:03,832 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli
+INFO - 2024-03-12 23:32:03,832 : ['_parser', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli\__pycache__
+INFO - 2024-03-12 23:32:03,832 : ['_re', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli\__pycache__
+INFO - 2024-03-12 23:32:03,832 : ['_types', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli\__pycache__
+INFO - 2024-03-12 23:32:03,832 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli\__pycache__
+INFO - 2024-03-12 23:32:03,832 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli-2.0.1.dist-info
+INFO - 2024-03-12 23:32:03,832 : [], LICENSE, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli-2.0.1.dist-info
+INFO - 2024-03-12 23:32:03,832 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli-2.0.1.dist-info
+INFO - 2024-03-12 23:32:03,833 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli-2.0.1.dist-info
+INFO - 2024-03-12 23:32:03,833 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\tomli-2.0.1.dist-info
+INFO - 2024-03-12 23:32:03,833 : contrib, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : util, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : connection, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : connectionpool, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : exceptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : fields, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : filepost, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : http2, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : poolmanager, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : response, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : _base_connection, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : _collections, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : _request_methods, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : _version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3
+INFO - 2024-03-12 23:32:03,833 : emscripten, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib
+INFO - 2024-03-12 23:32:03,833 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib
+INFO - 2024-03-12 23:32:03,834 : pyopenssl, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib
+INFO - 2024-03-12 23:32:03,834 : socks, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib
+INFO - 2024-03-12 23:32:03,834 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib
+INFO - 2024-03-12 23:32:03,834 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten
+INFO - 2024-03-12 23:32:03,834 : connection, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten
+INFO - 2024-03-12 23:32:03,834 : emscripten_fetch_worker, js, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten
+INFO - 2024-03-12 23:32:03,834 : fetch, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten
+INFO - 2024-03-12 23:32:03,834 : request, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten
+INFO - 2024-03-12 23:32:03,834 : response, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten
+INFO - 2024-03-12 23:32:03,834 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten
+INFO - 2024-03-12 23:32:03,834 : ['connection', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten\__pycache__
+INFO - 2024-03-12 23:32:03,834 : ['fetch', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten\__pycache__
+INFO - 2024-03-12 23:32:03,834 : ['request', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten\__pycache__
+INFO - 2024-03-12 23:32:03,834 : ['response', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten\__pycache__
+INFO - 2024-03-12 23:32:03,834 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\emscripten\__pycache__
+INFO - 2024-03-12 23:32:03,834 : ['pyopenssl', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\__pycache__
+INFO - 2024-03-12 23:32:03,834 : ['socks', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\__pycache__
+INFO - 2024-03-12 23:32:03,834 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\contrib\__pycache__
+INFO - 2024-03-12 23:32:03,834 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,834 : connection, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,834 : proxy, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,834 : request, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : response, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : retry, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : ssltransport, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : ssl_, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : ssl_match_hostname, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : timeout, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : url, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : wait, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util
+INFO - 2024-03-12 23:32:03,835 : ['connection', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,835 : ['proxy', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,835 : ['request', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,835 : ['response', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,835 : ['retry', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,835 : ['ssltransport', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,835 : ['ssl_', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,835 : ['ssl_match_hostname', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['timeout', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['url', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['util', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['wait', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\util\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['connection', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['connectionpool', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['exceptions', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['fields', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['filepost', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['http2', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['poolmanager', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['response', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['_base_connection', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['_collections', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['_request_methods', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,836 : ['_version', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,837 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3\__pycache__
+INFO - 2024-03-12 23:32:03,837 : licenses, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3-2.2.1.dist-info
+INFO - 2024-03-12 23:32:03,837 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3-2.2.1.dist-info
+INFO - 2024-03-12 23:32:03,837 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3-2.2.1.dist-info
+INFO - 2024-03-12 23:32:03,837 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3-2.2.1.dist-info
+INFO - 2024-03-12 23:32:03,837 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3-2.2.1.dist-info
+INFO - 2024-03-12 23:32:03,837 : LICENSE, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\urllib3-2.2.1.dist-info\licenses
+INFO - 2024-03-12 23:32:03,837 : cli, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : vendored, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : bdist_wheel, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : macosx_libfile, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : metadata, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : pkginfo, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : wheelfile, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : __main__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel
+INFO - 2024-03-12 23:32:03,837 : convert, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel\cli
+INFO - 2024-03-12 23:32:03,837 : pack, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel\cli
+INFO - 2024-03-12 23:32:03,837 : unpack, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel\cli
+INFO - 2024-03-12 23:32:03,837 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel\cli
+INFO - 2024-03-12 23:32:03,837 : packaging, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\wheel\vendored
+INFO - 2024-03-12 23:32:03,838 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel\vendored
+INFO - 2024-03-12 23:32:03,838 : tags, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel\vendored\packaging
+INFO - 2024-03-12 23:32:03,838 : _typing, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel\vendored\packaging
+INFO - 2024-03-12 23:32:03,838 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel\vendored\packaging
+INFO - 2024-03-12 23:32:03,838 : entry_points, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel-0.37.1.dist-info
+INFO - 2024-03-12 23:32:03,838 : [], INSTALLER, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel-0.37.1.dist-info
+INFO - 2024-03-12 23:32:03,838 : LICENSE, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel-0.37.1.dist-info
+INFO - 2024-03-12 23:32:03,838 : [], METADATA, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel-0.37.1.dist-info
+INFO - 2024-03-12 23:32:03,838 : [], RECORD, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel-0.37.1.dist-info
+INFO - 2024-03-12 23:32:03,838 : top_level, txt, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel-0.37.1.dist-info
+INFO - 2024-03-12 23:32:03,838 : [], WHEEL, No, C:\_python\LEETCODE\venv\Lib\site-packages\wheel-0.37.1.dist-info
+INFO - 2024-03-12 23:32:03,838 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,838 : composer, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,838 : constructor, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,838 : cyaml, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : dumper, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : emitter, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : error, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : events, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : loader, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : nodes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : parser, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : reader, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : representer, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : resolver, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : scanner, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : serializer, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,839 : tokens, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,840 : ['_yaml', 'cp310-win_amd64'], pyd, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,841 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml
+INFO - 2024-03-12 23:32:03,841 : ['composer', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['constructor', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['cyaml', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['dumper', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['emitter', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['error', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['events', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['loader', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['nodes', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['parser', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['reader', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['representer', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['resolver', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,841 : ['scanner', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,842 : ['serializer', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,842 : ['tokens', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,842 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\yaml\__pycache__
+INFO - 2024-03-12 23:32:03,842 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_distutils_hack
+INFO - 2024-03-12 23:32:03,842 : override, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_distutils_hack
+INFO - 2024-03-12 23:32:03,842 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_distutils_hack
+INFO - 2024-03-12 23:32:03,842 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_distutils_hack\__pycache__
+INFO - 2024-03-12 23:32:03,842 : assertion, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : config, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : mark, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : _code, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : _io, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : _py, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : cacheprovider, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : capture, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,842 : debugging, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : deprecated, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : doctest, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : faulthandler, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : fixtures, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : freeze_support, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : helpconfig, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : hookspec, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : junitxml, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : legacypath, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : logging, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : main, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : monkeypatch, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : nodes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : nose, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : outcomes, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : pastebin, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : pathlib, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,843 : py, typed, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : pytester, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : pytester_assertions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : python, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : python_api, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : python_path, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : recwarn, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : reports, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : runner, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : scope, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : setuponly, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : setupplan, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : skipping, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : stash, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : stepwise, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : terminal, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : threadexception, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,844 : timing, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,845 : tmpdir, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,845 : unittest, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,845 : unraisableexception, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,845 : warnings, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,845 : warning_types, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,845 : _argcomplete, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,845 : _version, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,845 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest
+INFO - 2024-03-12 23:32:03,845 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\assertion
+INFO - 2024-03-12 23:32:03,845 : rewrite, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\assertion
+INFO - 2024-03-12 23:32:03,845 : truncate, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\assertion
+INFO - 2024-03-12 23:32:03,845 : util, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\assertion
+INFO - 2024-03-12 23:32:03,845 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\assertion
+INFO - 2024-03-12 23:32:03,845 : ['rewrite', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\assertion\__pycache__
+INFO - 2024-03-12 23:32:03,845 : ['truncate', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\assertion\__pycache__
+INFO - 2024-03-12 23:32:03,845 : ['util', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\assertion\__pycache__
+INFO - 2024-03-12 23:32:03,845 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\assertion\__pycache__
+INFO - 2024-03-12 23:32:03,846 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config
+INFO - 2024-03-12 23:32:03,846 : argparsing, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config
+INFO - 2024-03-12 23:32:03,846 : compat, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config
+INFO - 2024-03-12 23:32:03,846 : exceptions, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config
+INFO - 2024-03-12 23:32:03,846 : findpaths, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config
+INFO - 2024-03-12 23:32:03,846 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config
+INFO - 2024-03-12 23:32:03,846 : ['argparsing', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config\__pycache__
+INFO - 2024-03-12 23:32:03,846 : ['compat', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config\__pycache__
+INFO - 2024-03-12 23:32:03,846 : ['exceptions', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config\__pycache__
+INFO - 2024-03-12 23:32:03,846 : ['findpaths', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config\__pycache__
+INFO - 2024-03-12 23:32:03,846 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\config\__pycache__
+INFO - 2024-03-12 23:32:03,846 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\mark
+INFO - 2024-03-12 23:32:03,846 : expression, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\mark
+INFO - 2024-03-12 23:32:03,846 : structures, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\mark
+INFO - 2024-03-12 23:32:03,846 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\mark
+INFO - 2024-03-12 23:32:03,846 : ['expression', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\mark\__pycache__
+INFO - 2024-03-12 23:32:03,846 : ['structures', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\mark\__pycache__
+INFO - 2024-03-12 23:32:03,846 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\mark\__pycache__
+INFO - 2024-03-12 23:32:03,846 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_code
+INFO - 2024-03-12 23:32:03,846 : code, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_code
+INFO - 2024-03-12 23:32:03,846 : source, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_code
+INFO - 2024-03-12 23:32:03,846 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_code
+INFO - 2024-03-12 23:32:03,847 : ['code', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_code\__pycache__
+INFO - 2024-03-12 23:32:03,847 : ['source', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_code\__pycache__
+INFO - 2024-03-12 23:32:03,847 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_code\__pycache__
+INFO - 2024-03-12 23:32:03,847 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io
+INFO - 2024-03-12 23:32:03,847 : pprint, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io
+INFO - 2024-03-12 23:32:03,847 : saferepr, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io
+INFO - 2024-03-12 23:32:03,847 : terminalwriter, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io
+INFO - 2024-03-12 23:32:03,847 : wcwidth, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io
+INFO - 2024-03-12 23:32:03,847 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io
+INFO - 2024-03-12 23:32:03,847 : ['pprint', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io\__pycache__
+INFO - 2024-03-12 23:32:03,847 : ['saferepr', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io\__pycache__
+INFO - 2024-03-12 23:32:03,847 : ['terminalwriter', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io\__pycache__
+INFO - 2024-03-12 23:32:03,847 : ['wcwidth', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io\__pycache__
+INFO - 2024-03-12 23:32:03,847 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_io\__pycache__
+INFO - 2024-03-12 23:32:03,847 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_py
+INFO - 2024-03-12 23:32:03,847 : error, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_py
+INFO - 2024-03-12 23:32:03,847 : path, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_py
+INFO - 2024-03-12 23:32:03,847 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_py
+INFO - 2024-03-12 23:32:03,847 : ['error', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_py\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['path', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_py\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\_py\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['cacheprovider', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['capture', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['compat', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['debugging', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['deprecated', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['doctest', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['faulthandler', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['fixtures', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['freeze_support', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['helpconfig', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['hookspec', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['junitxml', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['legacypath', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['logging', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['main', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['monkeypatch', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['nodes', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,848 : ['nose', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['outcomes', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['pastebin', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['pathlib', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['pytester', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['pytester_assertions', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['python', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['python_api', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['python_path', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['recwarn', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['reports', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['runner', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['scope', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['setuponly', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['setupplan', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,849 : ['skipping', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,850 : ['stash', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,850 : ['stepwise', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,850 : ['terminal', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,850 : ['threadexception', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,850 : ['timing', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,850 : ['tmpdir', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,850 : ['unittest', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,851 : ['unraisableexception', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,851 : ['warnings', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,851 : ['warning_types', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,851 : ['_argcomplete', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,851 : ['_version', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,851 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_pytest\__pycache__
+INFO - 2024-03-12 23:32:03,851 : __pycache__, , Yes, C:\_python\LEETCODE\venv\Lib\site-packages\_yaml
+INFO - 2024-03-12 23:32:03,851 : __init__, py, No, C:\_python\LEETCODE\venv\Lib\site-packages\_yaml
+INFO - 2024-03-12 23:32:03,851 : ['__init__', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\_yaml\__pycache__
+INFO - 2024-03-12 23:32:03,851 : ['py', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\__pycache__
+INFO - 2024-03-12 23:32:03,851 : ['_virtualenv', 'cpython-310'], pyc, No, C:\_python\LEETCODE\venv\Lib\site-packages\__pycache__
+INFO - 2024-03-12 23:32:03,851 : [], activate, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,851 : activate, bat, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,851 : activate, fish, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,851 : activate, nu, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,851 : activate, ps1, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,851 : activate_this, py, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : deactivate, bat, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : deactivate, nu, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : normalizer, exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : ['pip-3', '10'], exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : pip, exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : ['pip3', '10'], exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : pip3, exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : ['py', 'test'], exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : pydoc, bat, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : pytest, exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : python, exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : pythonw, exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : ['wheel-3', '10'], exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : wheel, exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : ['wheel3', '10'], exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : wheel3, exe, No, C:\_python\LEETCODE\venv\Scripts
+INFO - 2024-03-12 23:32:03,852 : .idea, , Yes, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация
+INFO - 2024-03-12 23:32:03,852 : 01_csv, , Yes, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация
+INFO - 2024-03-12 23:32:03,852 : 02_json, , Yes, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация
+INFO - 2024-03-12 23:32:03,852 : 03_yaml, , Yes, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация
+INFO - 2024-03-12 23:32:03,852 : 04_pickle, , Yes, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация
+INFO - 2024-03-12 23:32:03,852 : Студентам для решения домашнего задания, , Yes, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация
+INFO - 2024-03-12 23:32:03,852 : encodings, xml, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\.idea
+INFO - 2024-03-12 23:32:03,852 : misc, xml, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\.idea
+INFO - 2024-03-12 23:32:03,853 : modules, xml, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\.idea
+INFO - 2024-03-12 23:32:03,853 : workspace, xml, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\.idea
+INFO - 2024-03-12 23:32:03,853 : ['Урок 2', ' Коды примеров'], iml, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\.idea
+INFO - 2024-03-12 23:32:03,853 : csv_read, py, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\01_csv
+INFO - 2024-03-12 23:32:03,853 : csv_write, py, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\01_csv
+INFO - 2024-03-12 23:32:03,853 : kp_data, csv, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\01_csv
+INFO - 2024-03-12 23:32:03,853 : kp_data_delimiter, csv, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\01_csv
+INFO - 2024-03-12 23:32:03,853 : kp_data_dictwriter, csv, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\01_csv
+INFO - 2024-03-12 23:32:03,853 : kp_data_write_1, csv, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\01_csv
+INFO - 2024-03-12 23:32:03,853 : kp_data_write_2, csv, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\01_csv
+INFO - 2024-03-12 23:32:03,853 : kp_data_write_3, csv, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\01_csv
+INFO - 2024-03-12 23:32:03,853 : data_type_change, py, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,853 : dict_to_json, json, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,853 : json_read, py, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,853 : json_write, py, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,853 : mes_example_read, json, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,853 : mes_example_write, json, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,853 : mes_example_write_1, json, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,854 : mes_example_write_2, json, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,854 : mes_example_write_3, json, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,854 : tuple_ex, json, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\02_json
+INFO - 2024-03-12 23:32:03,854 : data_read, yaml, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\03_yaml
+INFO - 2024-03-12 23:32:03,854 : data_write, yaml, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\03_yaml
+INFO - 2024-03-12 23:32:03,854 : pyyaml_examples, py, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\03_yaml
+INFO - 2024-03-12 23:32:03,854 : yaml_examples, yaml, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\03_yaml
+INFO - 2024-03-12 23:32:03,854 : data, pickle, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\04_pickle
+INFO - 2024-03-12 23:32:03,854 : info_3, pickle, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\04_pickle
+INFO - 2024-03-12 23:32:03,854 : kp_data, csv, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\04_pickle
+INFO - 2024-03-12 23:32:03,854 : kp_data_write_1, csv, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\04_pickle
+INFO - 2024-03-12 23:32:03,854 : kp_data_write_2, csv, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\04_pickle
+INFO - 2024-03-12 23:32:03,854 : kp_data_write_2, pickle, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\04_pickle
+INFO - 2024-03-12 23:32:03,854 : kp_data_write_2, txt, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\04_pickle
+INFO - 2024-03-12 23:32:03,854 : pickle_fun, py, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\04_pickle
+INFO - 2024-03-12 23:32:03,854 : info_1, txt, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\Студентам для решения домашнего задания
+INFO - 2024-03-12 23:32:03,854 : info_2, txt, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\Студентам для решения домашнего задания
+INFO - 2024-03-12 23:32:03,854 : orders, json, No, C:\_python\LEETCODE\Урок 2. Коды примеров серилизация\Студентам для решения домашнего задания
+INFO - 2024-03-12 23:32:03,854 : .idea, , Yes, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,854 : __pycache__, , Yes, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,854 : Decorator Class, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,854 : deco_class_8, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,854 : deco_for_class_10, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : deco_func_4, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : deco_params_class_9, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : deco_params_func_5, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : deco_params_func_6, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : easy_deco_1, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : easy_deco_2, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : easy_deco_3, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : function_data, json, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : game 2, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : game, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : guess_num, json, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : json decorator, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : quantity colling func, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : two decorr, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : two_deco_7, py, No, C:\_python\LEETCODE\Урок 6. Декораторы
+INFO - 2024-03-12 23:32:03,855 : encodings, xml, No, C:\_python\LEETCODE\Урок 6. Декораторы\.idea
+INFO - 2024-03-12 23:32:03,855 : misc, xml, No, C:\_python\LEETCODE\Урок 6. Декораторы\.idea
+INFO - 2024-03-12 23:32:03,855 : modules, xml, No, C:\_python\LEETCODE\Урок 6. Декораторы\.idea
+INFO - 2024-03-12 23:32:03,855 : workspace, xml, No, C:\_python\LEETCODE\Урок 6. Декораторы\.idea
+INFO - 2024-03-12 23:32:03,855 : ['Урок 6', ' Коды примеров'], iml, No, C:\_python\LEETCODE\Урок 6. Декораторы\.idea
+INFO - 2024-03-12 23:32:03,855 : ['when_deco_is_called', 'cpython-37'], pyc, No, C:\_python\LEETCODE\Урок 6. Декораторы\__pycache__
