@@ -1,6 +1,8 @@
 import logging
 import os
 from collections import namedtuple
+import argparse
+from time import sleep
 
 class Catalog_separe:
 
@@ -50,3 +52,17 @@ class Catalog_separe:
                 return print(*clas_list, sep="\n")
 
 Catalog_separe().separate()
+sleep(1)
+os.system('cls')
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Parsing')
+    parser.add_argument('-a', metavar='dir_sep', type=str, help='entre directory', default='C:\_python\LEETCODE\OOP')
+    args = parser.parse_args()
+    print(Catalog_separe(args.a).separate())
+    # sleep(1)
+    # print(Catalog_separe("C:\_python\LEETCODE\OOP\06_logging").separate())
+
+    # python \home_06_catalog.py -a="C:\_python\LEETCODE\OOP\06_logging"  #запуск через терминал
+    # или в конфигурации прописать -a="C:\_python\LEETCODE\OOP\06_logging"
+
